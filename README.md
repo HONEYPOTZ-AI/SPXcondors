@@ -15,6 +15,7 @@ A zero-latency scanner and strategy suite for **same-day SPX Iron Condors**, tun
 - **🚀 0DTE Ready**: Built for same-day expiry trading — every tick counts
 - **💼 Strategy Templates**: Multi-layered Iron Condors with preconfigured wings
 - **📈 Backtest Harness**: Replay signals against historical cycles
+
 - **🔐 Local Deployment**: Run inside your Trusted Execution Environment (TEE) for secure inference
 
 ---
