@@ -1,0 +1,10 @@
+iron-condor-assets/
+├── assets/
+│   ├── og-banner.png
+│   ├── teaser.gif
+│   ├── delta-icon.svg
+│   ├── iv-icon.svg
+│   ├── sentiment-icon.svg
+│   └── zerodte-icon.svg
+└── docs/
+    └── CONTRIBUTING.md
